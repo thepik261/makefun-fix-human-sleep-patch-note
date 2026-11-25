@@ -34,3 +34,4 @@ if (back !== LINE) {
 }
 
 // Revision: keep the patch note to one line; validation and read-back unchanged.
+// Second pass: no output change, entry still a single 113-char line.
